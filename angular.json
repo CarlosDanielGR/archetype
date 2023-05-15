@@ -31,11 +31,15 @@
               "projects/archetype/src/assets"
             ],
             "styles": [
+              "./node_modules/bootstrap/dist/css/bootstrap.min.css",
               "projects/archetype/src/styles/styles.scss",
               "projects/archetype/src/styles/themes.scss",
               "projects/archetype/src/styles/variables.scss"
             ],
-            "scripts": []
+            "scripts": [
+              "./node_modules/bootstrap/dist/js/bootstrap.min.js",
+              "./node_modules/@popperjs/core/dist/umd/popper.min.js"
+            ]
           },
           "configurations": {
             "production": {
