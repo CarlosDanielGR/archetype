@@ -1,0 +1,14 @@
+{
+    "recommendations": [
+        // Angular
+        "Angular.ng-template",
+
+        // Code formatter
+        "esbenp.prettier-vscode",
+        "dbaeumer.vscode-eslint",
+        "SonarSource.sonarlint-vscode",
+
+        // HTML
+        "formulahendry.auto-rename-tag"
+    ]
+}
