@@ -31,7 +31,9 @@
               "projects/archetype/src/assets"
             ],
             "styles": [
-              "projects/archetype/src/styles.scss"
+              "projects/archetype/src/styles/styles.scss",
+              "projects/archetype/src/styles/themes.scss",
+              "projects/archetype/src/styles/variables.scss"
             ],
             "scripts": []
           },
